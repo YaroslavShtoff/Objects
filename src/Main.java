@@ -12,7 +12,7 @@ public class Main {
                 + fathersAndSons.getAuthorName()
                 +" "+fathersAndSons.getYearPublishing() );
         fathersAndSons.setYearPublishing(1865);
-        System.out.println(fathersAndSons.getTitle() + " " + fathersAndSons.getAuthorSurname() + " "
+        System.out.println(fathersAndSons.getTitle() + "  " + fathersAndSons.getAuthorSurname() + " "
                 + fathersAndSons.getAuthorName()
                 +" "+fathersAndSons.getYearPublishing() );
 
